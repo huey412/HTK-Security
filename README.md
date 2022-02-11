@@ -9,7 +9,7 @@ huey412/huey412 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Tools used:
+Resource:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
 
 
