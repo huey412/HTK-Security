@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huey412
-- 👀 I’m interested in cars and everything electronic
-- 🌱 I’m currently learning Data Science and Machine Learning.
+- 👀 I’m interested in cars, onewheels, phones, and everything electronic
+- 🌱 I’m currently learning Machine Learning and appling it to security.
 - 💞️ I’m looking to collaborate on using python to create an awesome machine learning project.
 - 📫 How to reach me hxyst3@gmail.com
 
