@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 Resource:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
 
+Tools:
+- Sandbox analysis: https://www.hybrid-analysis.com
+- IOC analysis: https://www.virustotal.com/gui/home/upload
 
 Configuration:
 - Wireshark: https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/
