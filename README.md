@@ -11,3 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 Tools used:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
+
+
+Configuration:
+Wireshark: https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/
