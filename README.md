@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 Resource:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
+- All in one: https://asecuritysite.com/
 
 Tools:
 - Sandbox analysis: https://www.hybrid-analysis.com
