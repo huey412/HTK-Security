@@ -21,3 +21,4 @@ Tools:
 - nmap (network discovery/scanning): https://nmap.org/
 - wireshark (packet analysis): https://www.wireshark.org/
   - setup https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/
+- vulnerability scanner: Burpsuite https://portswigger.net/burp/community-download-thank-you
