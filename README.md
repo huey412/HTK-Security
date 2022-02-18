@@ -16,6 +16,8 @@ Resource:
 Tools:
 - Sandbox analysis: https://www.hybrid-analysis.com
 - IOC analysis: https://www.virustotal.com/gui/home/upload
-
-Configuration:
-- Wireshark: https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/
+- volatility (memory analysis): https://github.com/volatilityfoundation/volatility
+- snort (network intrusion detection): https://www.snort.org/
+- nmap (network discovery/scanning): https://nmap.org/
+- wireshark (packet analysis): https://www.wireshark.org/
+  - setup https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/
