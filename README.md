@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 Resource:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
-- All in one: https://asecuritysite.com/
+- All in one Security topics: https://asecuritysite.com/
 - General Incident Response Guide: https://incidentresponse.com/playbook/
   - free resource: https://appliedincidentresponse.com/
 
@@ -28,4 +28,3 @@ Tools:
 
 Books:
 - Applied Incident Response by Steve Anson
-- 
