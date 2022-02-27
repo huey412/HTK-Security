@@ -13,6 +13,7 @@ Resource:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
 - All in one: https://asecuritysite.com/
 - General Incident Response Guide: https://incidentresponse.com/playbook/
+  - free resource: https://appliedincidentresponse.com/
 
 Tools:
 - Sandbox analysis: https://www.hybrid-analysis.com
@@ -23,3 +24,8 @@ Tools:
 - wireshark (packet analysis): https://www.wireshark.org/
   - setup https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/
 - vulnerability scanner: Burpsuite https://portswigger.net/burp/community-download-thank-you
+- Incident Response Tracker: https://github.com/certsocietegenerale/FIR
+
+Books:
+- Applied Incident Response by Steve Anson
+- 
