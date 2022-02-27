@@ -9,22 +9,40 @@ huey412/huey412 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Resource:
+SIEM:
+ - Splunk
+ - Elastic Stack (open-source)
+
+Sandbox:
+ - Joe's Sandbox
+ - Sandbox analysis: https://www.hybrid-analysis.com
+
+Intelligent:
+ - IOC analysis: https://www.virustotal.com/gui/home/upload
+
+Memory Forensic:
+ - volatility (open-source): https://github.com/volatilityfoundation/volatility
+
+Intrusion Detection/Prevention Systems:
+ - Snort (open-source): https://www.snort.org/
+
+Scanning/Vulnerability:
+ - nmap: https://nmap.org/
+ - vulnerability scanner: Burpsuite https://portswigger.net/burp/community-download-thank-you
+
+Network Analysis:
+ - wireshark (packet analysis): https://www.wireshark.org/
+   - setup https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/
+
+Misc:
+- Incident Response Tracker(open-source): https://github.com/certsocietegenerale/FIR
+
+Books:
+- Applied Incident Response by Steve Anson
+
+Resources:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
 - All in one Security topics: https://asecuritysite.com/
 - General Incident Response Guide: https://incidentresponse.com/playbook/
   - free resource: https://appliedincidentresponse.com/
 
-Tools:
-- Sandbox analysis: https://www.hybrid-analysis.com
-- IOC analysis: https://www.virustotal.com/gui/home/upload
-- volatility (memory analysis): https://github.com/volatilityfoundation/volatility
-- snort (network intrusion detection): https://www.snort.org/
-- nmap (network discovery/scanning): https://nmap.org/
-- wireshark (packet analysis): https://www.wireshark.org/
-  - setup https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/
-- vulnerability scanner: Burpsuite https://portswigger.net/burp/community-download-thank-you
-- Incident Response Tracker: https://github.com/certsocietegenerale/FIR
-
-Books:
-- Applied Incident Response by Steve Anson
