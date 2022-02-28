@@ -46,12 +46,12 @@ Misc:
 
 Books:
 - Applied Incident Response by Steve Anson
+  - resources for free training: https://appliedincidentresponse.com/
 
 Resources:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
 - All in one Security topics: https://asecuritysite.com/
 - General Incident Response Guide: https://incidentresponse.com/playbook/
-  - free resource: https://appliedincidentresponse.com/
 - Sysmon: https://github.com/olafhartong/sysmon-modular
   - configuration: https://github.com/SwiftOnSecurity/sysmon-config/blob/master/sysmonconfig-export.xml
 
