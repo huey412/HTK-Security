@@ -14,11 +14,15 @@ SIEM:
  - Elastic Stack (open-source)
 
 Sandbox:
- - Joe's Sandbox
- - Sandbox analysis: https://www.hybrid-analysis.com
+ - Joe's Sandbox: https://www.joesecurity.org
+ - Hybrid Analysis: https://www.hybrid-analysis.com
+ - Alienvault: https://otx.alienvault.com/pulse/5d8bd48cd456e33bc6e338de
 
 Intelligent:
  - IOC analysis: https://www.virustotal.com/gui/home/upload
+ - MISP (Malware Information Sharing Platform): https://www.misp-project.org
+ - AlienVault Open Threat Exchange (OTX): https://otx.alienvault.com
+ - ThreatCrowd: https://threatcrowd.org
 
 Memory Forensic:
  - volatility (open-source): https://github.com/volatilityfoundation/volatility
