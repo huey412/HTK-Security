@@ -52,4 +52,5 @@ Resources:
 - All in one Security topics: https://asecuritysite.com/
 - General Incident Response Guide: https://incidentresponse.com/playbook/
   - free resource: https://appliedincidentresponse.com/
+- Sysmon: https://github.com/olafhartong/sysmon-modular
 
