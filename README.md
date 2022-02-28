@@ -13,6 +13,9 @@ SIEM:
  - Splunk
  - Elastic Stack (open-source)
 
+SOAR:
+ - Shuffle: https://shuffler.io/pricing
+
 Sandbox:
  - Joe's Sandbox: https://www.joesecurity.org
  - Hybrid Analysis: https://www.hybrid-analysis.com
