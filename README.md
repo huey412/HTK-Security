@@ -19,8 +19,8 @@ SOAR:
 Sandbox:
  - Joe's Sandbox: https://www.joesecurity.org
  - Hybrid Analysis: https://www.hybrid-analysis.com
- - Alienvault: https://otx.alienvault.com/pulse/5d8bd48cd456e33bc6e338de
-
+ - Alienvault: https://otx.alienvault.com/
+ 
 Intelligent:
  - IOC analysis: https://www.virustotal.com/gui/home/upload
  - MISP (Malware Information Sharing Platform): https://www.misp-project.org
