@@ -14,7 +14,7 @@ SIEM:
  - Elastic Stack (open-source)
 
 SOAR:
- - Shuffle: https://shuffler.io/pricing
+ - Shuffle: https://shuffler.io/
 
 Sandbox:
  - Joe's Sandbox: https://www.joesecurity.org
