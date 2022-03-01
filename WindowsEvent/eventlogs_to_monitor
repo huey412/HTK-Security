@@ -1,0 +1,13 @@
+<!-- These are the list of Event Ids that is covered through my initial Endpoint Monitoring adventure -->
+
+5145: A network share object was checked to see whether client can be granted desired access
+  - When named pipes are accessed 
+  - default named pipe used remotely is .pipepsexesvc, but accordding to MENASEC, unique pipes are created on target host for each use.
+  - great for identifying evasive PsExec usages.
+  - source: https://www.praetorian.com/blog/threat-hunting-how-to-detect-psexec
+  
+7045: A service was installed in the system
+  - great for detecting psexec on the target machine
+  - default is named psexesvc on the target machine.
+  - if detected, look for patient zero.
+  - source: https://www.praetorian.com/blog/threat-hunting-how-to-detect-psexec
