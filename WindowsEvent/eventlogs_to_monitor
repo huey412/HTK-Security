@@ -1,17 +1,17 @@
 <!-- These are the list of Event Ids that is covered through my initial Endpoint Monitoring adventure -->
 
 General source for all windows event related ids: https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
-
+    
+1074: System has been shutdown by a process/user
+  - when a user requested a machine to be shutdown or restarted
+  - source: https://shellgeek.com/event-id-1074-system-restart-or-shutdown/
+  
 1100: The Event Logging Service Has Shut Down
   - indicate that the event logging has been shut down
   - can also happen when a system gets shutdown or restart
     - source: https://www.manageengine.com/products/active-directory-audit/kb/event-log-events/event-id-1100.html
   - should preced by event 1074 in the system logs
     - source: https://system32.eventsentry.com/security/event/1100
-    
-1074: System has been shutdown by a process/user
-  - when a user requested a machine to be shutdown or restarted
-  - source: https://shellgeek.com/event-id-1074-system-restart-or-shutdown/
   
 4624: An account was successfully logged on
   - There are different types of logon (logon type)
