@@ -54,4 +54,5 @@ Resources:
 - General Incident Response Guide: https://incidentresponse.com/playbook/
 - Sysmon: https://github.com/olafhartong/sysmon-modular
   - configuration: https://github.com/SwiftOnSecurity/sysmon-config/blob/master/sysmonconfig-export.xml
+- Threat Hunting: https://blog.menasec.net/
 
