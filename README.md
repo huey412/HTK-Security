@@ -9,46 +9,52 @@ huey412/huey412 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-SIEM:
+## SIEM:
  - Splunk
  - Elastic Stack (open-source)
 
-SOAR:
+## SOAR:
  - Shuffle: https://shuffler.io/
 
-Sandbox:
+## Sandbox:
  - Joe's Sandbox: https://www.joesecurity.org
  - Hybrid Analysis: https://www.hybrid-analysis.com
  - Alienvault: https://otx.alienvault.com/
  
-Intelligent:
+## Intelligent:
  - IOC analysis: https://www.virustotal.com/gui/home/upload
  - MISP (Malware Information Sharing Platform): https://www.misp-project.org
  - AlienVault Open Threat Exchange (OTX): https://otx.alienvault.com
  - ThreatCrowd: https://threatcrowd.org
 
-Memory Forensic:
+## Memory Forensic:
  - volatility (open-source): https://github.com/volatilityfoundation/volatility
 
-Intrusion Detection/Prevention Systems:
+## Intrusion Detection/Prevention Systems:
  - Snort (open-source): https://www.snort.org/
 
-Scanning/Vulnerability:
+## Scanning/Vulnerability:
  - nmap: https://nmap.org/
  - vulnerability scanner: Burpsuite https://portswigger.net/burp/community-download-thank-you
 
-Network Analysis:
+## Network Analysis:
  - wireshark (packet analysis): https://www.wireshark.org/
    - setup https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/
 
-Misc:
+## All things Honey:
+ - Artillery (standalone windows/linux honeypot): https://github.com/BinaryDefense/artillery
+ - Cowrie (ssh simulator): https://github.com/cowrie/cowrie
+ - WebLabyrinth (bogus website): https://github.com/mayhemiclabs/weblabyrinth
+ - Modern Honey Network (MHN): https://github.com/threatstream/mhn
+
+## Misc:
 - Incident Response Tracker(open-source): https://github.com/certsocietegenerale/FIR
 
-Books:
+## Books:
 - Applied Incident Response by Steve Anson
   - resources for free training: https://appliedincidentresponse.com/
 
-Resources:
+## Resources:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
 - All in one Security topics: https://asecuritysite.com/
 - General Incident Response Guide: https://incidentresponse.com/playbook/
