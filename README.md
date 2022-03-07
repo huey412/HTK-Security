@@ -49,6 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Misc:
 - Incident Response Tracker(open-source): https://github.com/certsocietegenerale/FIR
+- Logging Configurations (Very good source to get started on logging): https://www.malwarearchaeology.com/cheat-sheets
 
 ## Books:
 - Applied Incident Response by Steve Anson
