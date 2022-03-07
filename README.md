@@ -10,11 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## SIEM:
- - Splunk
- - Elastic Stack (open-source)
+ - Splunk: https://www.splunk.com
+ - Elastic Stack (open-source): https://cloud.elastic.co/
 
 ## SOAR:
  - Shuffle: https://shuffler.io/
+ - Splunk Soar(former phantom): https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html
+ - Cortex xsoar: https://www.paloaltonetworks.com/cortex/cortex-xsoar
 
 ## Sandbox:
  - Joe's Sandbox: https://www.joesecurity.org
