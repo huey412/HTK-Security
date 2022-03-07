@@ -49,19 +49,17 @@ You can click the Preview link to take a look at your changes.
  - WebLabyrinth (bogus website): https://github.com/mayhemiclabs/weblabyrinth
  - Modern Honey Network (MHN): https://github.com/threatstream/mhn
 
-## Misc:
-- Incident Response Tracker(open-source): https://github.com/certsocietegenerale/FIR
-- Logging Configurations (Very good source to get started on logging): https://www.malwarearchaeology.com/cheat-sheets
-
 ## Books:
 - Applied Incident Response by Steve Anson
   - resources for free training: https://appliedincidentresponse.com/
 
-## Resources:
+## Additional Resources:
 - Malware Samples/Exercise: https://www.malware-traffic-analysis.net
 - All in one Security topics: https://asecuritysite.com/
 - General Incident Response Guide: https://incidentresponse.com/playbook/
 - Sysmon: https://github.com/olafhartong/sysmon-modular
   - configuration: https://github.com/SwiftOnSecurity/sysmon-config/blob/master/sysmonconfig-export.xml
 - Threat Hunting: https://blog.menasec.net/
+- Incident Response Tracker(open-source): https://github.com/certsocietegenerale/FIR
+- Logging Configurations (Very good source to get started on logging): https://www.malwarearchaeology.com/cheat-sheets
 
